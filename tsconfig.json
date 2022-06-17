@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "esnext",
+    "jsx": "react",
+    "baseUrl": ".",
+    "paths": {
+      "unleash-proxy-client": [
+        "node_modules/unleash-proxy-client/build/index.d.ts"
+      ] // This mapping is relative to "baseUrl"
+    },
+    "allowJs": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
