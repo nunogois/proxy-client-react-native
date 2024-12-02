@@ -1,5 +1,11 @@
 # proxy-client-react-native
 
+# DEPRECATED
+
+This repository is no longer maintained. Please visit [unleash-react-native](https://github.com/nunogois/unleash-react-native) instead.
+
+# Introduction
+
 PoC for a React Native / Expo SDK for [Unleash](https://www.getunleash.io/) based on the official [proxy-client-react](https://github.com/Unleash/proxy-client-react).
 
 You can check an example/demo here: [proxy-client-react-native-demo](https://github.com/nunogois/proxy-client-react-native-demo).
