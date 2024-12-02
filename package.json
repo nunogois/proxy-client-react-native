@@ -1,6 +1,6 @@
 {
   "name": "@nunogois/proxy-client-react-native",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "React Native / Expo interface for working with Unleash",
   "main": "dist/commonjs/index.js",
   "module": "dist/module/index.js",
@@ -11,6 +11,9 @@
     "src",
     "LICENCE.txt"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nunogois/proxy-client-react-native"
