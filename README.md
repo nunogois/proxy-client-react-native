@@ -2,7 +2,7 @@
 
 # DEPRECATED
 
-This repository is no longer maintained. Please visit [unleash-react-native](https://github.com/nunogois/unleash-react-native) instead.
+This repository is no longer maintained. Please use [unleash-react-native](https://github.com/nunogois/unleash-react-native) instead.
 
 # Introduction
 
